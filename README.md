@@ -1,0 +1,2 @@
+# DeepSeek_API_Call
+可以应用于SpringBoot后端的DeepSeek api调用项目，同时集成了自然语言转换成json的高级功能。
